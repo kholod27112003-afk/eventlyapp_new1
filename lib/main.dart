@@ -1,17 +1,11 @@
-import 'package:eventlyapp/Home%20Screen/home_screen.dart';
-import 'package:eventlyapp/Home%20Screen/tabs/profile%20tab/profile_screen.dart';
-import 'package:eventlyapp/Providers/app_language_provider.dart';
-import 'package:eventlyapp/Providers/app_theme_provider.dart';
-import 'package:eventlyapp/add%20event/add_event_screen.dart';
-import 'package:eventlyapp/authentication/login/login_screen.dart';
-import 'package:eventlyapp/authentication/register/register_screen.dart';
-import 'package:eventlyapp/generated/l10n.dart';
-import 'package:eventlyapp/onBording_Screens/IntroPage.dart';
-import 'package:eventlyapp/onBording_Screens/OnbordingScreen.dart';
-import 'package:eventlyapp/utils/app_routes.dart';
-import 'package:eventlyapp/utils/app_theme.dart';
+
+import 'package:eventlyapp_new/providers/app_language.dart';
+import 'package:eventlyapp_new/providers/app_theme_provider.dart';
+import 'package:eventlyapp_new/utils/app_routes.dart';
+import 'package:eventlyapp_new/utils/app_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
+import 'package:introduction_screen/introduction_screen.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
