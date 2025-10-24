@@ -1,5 +1,6 @@
 
 import 'package:eventlyapp_new/onBording_screens/screen_one.dart';
+import 'package:eventlyapp_new/onBording_screens/screen_three.dart';
 import 'package:eventlyapp_new/onBording_screens/screen_two.dart';
 import 'package:flutter/material.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
