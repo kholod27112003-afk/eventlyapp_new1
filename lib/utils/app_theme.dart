@@ -1,6 +1,8 @@
-import 'package:eventlyapp/utils/app_color.dart';
-import 'package:eventlyapp/utils/app_style.dart';
+
 import 'package:flutter/material.dart';
+
+import 'app_colors.dart';
+import 'app_style.dart';
 
 class AppTheme {
   static final ThemeData lightTheme = ThemeData(

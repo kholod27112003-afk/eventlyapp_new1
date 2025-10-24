@@ -1,15 +1,15 @@
 import 'package:animated_toggle_switch/animated_toggle_switch.dart';
-import 'package:eventlyapp/Home%20Screen/tabs/widgets/custom_elevated_button.dart';
-import 'package:eventlyapp/Providers/app_language_provider.dart';
-import 'package:eventlyapp/Providers/app_theme_provider.dart';
-import 'package:eventlyapp/generated/l10n.dart';
-import 'package:eventlyapp/utils/app_assets.dart';
-import 'package:eventlyapp/utils/app_color.dart';
-import 'package:eventlyapp/utils/app_routes.dart';
-import 'package:eventlyapp/utils/app_style.dart';
+
+import 'package:eventlyapp_new/utils/app_assets.dart';
+import 'package:eventlyapp_new/utils/app_colors.dart';
+import 'package:eventlyapp_new/utils/app_routes.dart';
+import 'package:eventlyapp_new/utils/app_style.dart';
 import 'package:flutter/material.dart';
 import 'package:icons_plus/icons_plus.dart';
 import 'package:provider/provider.dart';
+
+import '../providers/app_language.dart';
+import '../providers/app_theme_provider.dart';
 
 class Intropage extends StatefulWidget {
   const Intropage({super.key});

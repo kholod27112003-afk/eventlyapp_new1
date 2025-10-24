@@ -1,5 +1,7 @@
-import 'package:eventlyapp/utils/app_color.dart';
+
 import 'package:flutter/material.dart';
+
+import 'app_colors.dart';
 
 class AppStyle {
   static const TextStyle bold16White = TextStyle(
