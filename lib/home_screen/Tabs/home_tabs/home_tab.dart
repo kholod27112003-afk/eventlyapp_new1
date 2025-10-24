@@ -1,4 +1,5 @@
 
+import 'package:eventlyapp_new/home_screen/Tabs/home_tabs/event_item.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
@@ -8,6 +9,8 @@ import '../../../providers/app_language.dart';
 import '../../../providers/app_theme_provider.dart';
 import '../../../utils/app_colors.dart';
 import '../../../utils/app_style.dart';
+import 'widgets/category_items.dart';
+import 'widgets/event_tab_items.dart';
 
 class HomeTab extends StatefulWidget {
   HomeTab({super.key});

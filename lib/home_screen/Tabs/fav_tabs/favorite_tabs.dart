@@ -1,10 +1,9 @@
-import 'package:eventlyapp/Home%20Screen/tabs/home_tab/event_item.dart';
-import 'package:eventlyapp/Home%20Screen/tabs/widgets/custom_textformfiled.dart';
-import 'package:eventlyapp/generated/l10n.dart';
-import 'package:eventlyapp/utils/app_color.dart';
-import 'package:eventlyapp/utils/app_style.dart';
+
 import 'package:flutter/material.dart';
 import 'package:icons_plus/icons_plus.dart';
+
+import '../../../utils/app_colors.dart';
+import '../../../utils/app_style.dart';
 
 class FavoriteTab extends StatelessWidget {
   FavoriteTab({super.key});
