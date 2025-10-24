@@ -1,4 +1,7 @@
 
+import 'package:eventlyapp_new/home_screen/Tabs/profile_tabs/profile_screen.dart';
+import 'package:eventlyapp_new/home_screen/home_screen.dart';
+import 'package:eventlyapp_new/onBording_screens/introductionPage.dart';
 import 'package:eventlyapp_new/providers/app_language.dart';
 import 'package:eventlyapp_new/providers/app_theme_provider.dart';
 import 'package:eventlyapp_new/utils/app_routes.dart';

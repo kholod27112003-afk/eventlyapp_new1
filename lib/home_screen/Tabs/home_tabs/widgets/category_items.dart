@@ -2,7 +2,6 @@
 import 'package:eventlyapp_new/utils/app_assets.dart';
 import 'package:flutter/material.dart';
 import 'package:icons_plus/icons_plus.dart';
-import 'package:eventlyapp/generated/l10n.dart';
 
 class CategoryModel {
   final String index;

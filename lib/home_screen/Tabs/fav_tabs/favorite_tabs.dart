@@ -1,4 +1,5 @@
 
+import 'package:eventlyapp_new/home_screen/Tabs/home_tabs/event_item.dart';
 import 'package:flutter/material.dart';
 import 'package:icons_plus/icons_plus.dart';
 
