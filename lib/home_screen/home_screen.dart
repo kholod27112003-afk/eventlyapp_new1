@@ -1,4 +1,8 @@
 
+import 'package:eventlyapp_new/home_screen/Tabs/fav_tabs/favorite_tabs.dart';
+import 'package:eventlyapp_new/home_screen/Tabs/home_tabs/home_tab.dart';
+import 'package:eventlyapp_new/home_screen/Tabs/map_tabs/map_tab.dart';
+import 'package:eventlyapp_new/home_screen/Tabs/profile_tabs/profile_screen.dart';
 import 'package:flutter/material.dart';
 
 import '../utils/app_colors.dart';
