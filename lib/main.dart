@@ -1,5 +1,6 @@
 
 import 'package:eventlyapp_new/authentication/login/login_screen.dart';
+import 'package:eventlyapp_new/authentication/register/reister_screen.dart';
 import 'package:eventlyapp_new/generated/l10n.dart';
 import 'package:eventlyapp_new/home_screen/Tabs/profile_tabs/profile_screen.dart';
 import 'package:eventlyapp_new/home_screen/home_screen.dart';
