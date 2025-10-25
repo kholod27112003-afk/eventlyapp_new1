@@ -1,4 +1,5 @@
 
+import 'package:eventlyapp_new/generated/l10n.dart';
 import 'package:eventlyapp_new/home_screen/Tabs/home_tabs/event_item.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/gestures.dart';
