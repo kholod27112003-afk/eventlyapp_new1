@@ -1,4 +1,5 @@
 
+import 'package:animated_toggle_switch/animated_toggle_switch.dart';
 import 'package:eventlyapp_new/generated/l10n.dart';
 import 'package:eventlyapp_new/home_screen/Tabs/widgets/custom_elevated_button.dart';
 import 'package:eventlyapp_new/home_screen/Tabs/widgets/custom_textformfiled.dart';
