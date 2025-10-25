@@ -1,4 +1,5 @@
 
+import 'package:eventlyapp_new/generated/l10n.dart';
 import 'package:eventlyapp_new/providers/app_language.dart';
 import 'package:eventlyapp_new/utils/app_colors.dart';
 import 'package:eventlyapp_new/utils/app_style.dart';
