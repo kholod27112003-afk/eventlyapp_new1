@@ -1,4 +1,5 @@
 
+import 'package:eventlyapp_new/generated/l10n.dart';
 import 'package:flutter/material.dart';
 
 import '../utils/app_assets.dart';
