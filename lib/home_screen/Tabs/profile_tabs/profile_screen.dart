@@ -1,4 +1,5 @@
 
+import 'package:eventlyapp_new/generated/l10n.dart';
 import 'package:eventlyapp_new/home_screen/Tabs/profile_tabs/Themes/theme_buttom_sheet.dart';
 import 'package:eventlyapp_new/home_screen/Tabs/profile_tabs/languages/language_buttom_sheet.dart';
 import 'package:eventlyapp_new/home_screen/Tabs/widgets/custom_elevated_button.dart';
