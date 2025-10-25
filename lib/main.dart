@@ -1,4 +1,5 @@
 
+import 'package:eventlyapp_new/add_events/add_events_screen.dart';
 import 'package:eventlyapp_new/authentication/login/login_screen.dart';
 import 'package:eventlyapp_new/authentication/register/reister_screen.dart';
 import 'package:eventlyapp_new/generated/l10n.dart';
